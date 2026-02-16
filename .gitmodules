@@ -1,0 +1,3 @@
+[submodule "AgentTorch"]
+	path = AgentTorch
+	url = git@github.com:facundoy/AgentTorch.git
